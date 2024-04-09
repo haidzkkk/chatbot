@@ -1,0 +1,16 @@
+#Tue Apr 09 10:12:57 ICT 2024
+base.0=D\:\\AndroidStudioProjects\\flutter\\project\\chatbot\\build\\app\\intermediates\\dex\\stagingDebug\\mergeExtDexStagingDebug\\classes.dex
+base.1=D\:\\AndroidStudioProjects\\flutter\\project\\chatbot\\build\\app\\intermediates\\dex\\stagingDebug\\mergeLibDexStagingDebug\\0\\classes.dex
+base.2=D\:\\AndroidStudioProjects\\flutter\\project\\chatbot\\build\\app\\intermediates\\dex\\stagingDebug\\mergeProjectDexStagingDebug\\0\\classes.dex
+base.3=D\:\\AndroidStudioProjects\\flutter\\project\\chatbot\\build\\app\\intermediates\\dex\\stagingDebug\\mergeProjectDexStagingDebug\\1\\classes.dex
+base.4=D\:\\AndroidStudioProjects\\flutter\\project\\chatbot\\build\\app\\intermediates\\dex\\stagingDebug\\mergeProjectDexStagingDebug\\9\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=0/classes.dex
+path.3=1/classes.dex
+path.4=9/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex

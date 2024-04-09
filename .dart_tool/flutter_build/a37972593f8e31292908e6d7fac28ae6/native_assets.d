@@ -1,0 +1,1 @@
+ D:\\AndroidStudioProjects\\flutter\\project\\chatbot\\.dart_tool\\flutter_build\\a37972593f8e31292908e6d7fac28ae6\\native_assets.yaml: 

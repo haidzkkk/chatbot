@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.myopenai.chatbot.app-mergeStagingDebugResources-28:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kantun\\.gradle\\caches\\transforms-3\\225de59bf4d5512426ad2428a1a4369e\\transformed\\core-1.10.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
